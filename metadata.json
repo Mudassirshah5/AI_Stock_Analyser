@@ -1,0 +1,6 @@
+{
+  "name": "AI Stock Analyzer",
+  "description": "Evidence-based stock analysis powered by real market data and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
